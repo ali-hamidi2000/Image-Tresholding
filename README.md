@@ -11,8 +11,8 @@
 <a href="https://github.com/Awrsha/Image-Tresholding"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a>
 <a href="https://github.com/Awrsha/Image-Tresholding"><img src="https://img.shields.io/badge/Platform-linux--64 -blue" alt="HSL" width="130"></a>
 <a href="https://github.com/Awrsha/Image-Tresholding"><img src="https://img.shields.io/badge/Platform-windows-cyan" alt="HSL" width="130"></a>
-<a href="https://github.com/Awrsha/Image-Tresholding/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-MIT-red" alt="HSL" width="110"></a>
-<a href="https://github.com/Awrsha/Image-Tresholding/network/members"><img src="https://img.shields.io/badge/Developers-2-lightgrey" alt="HSL" width="100"></a>
+<a href="https://github.com/Awrsha/Image-Tresholding/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-GPL3-red" alt="HSL" width="110"></a>
+<a href="https://github.com/Awrsha/Image-Tresholding/network/members"><img src="https://img.shields.io/badge/Developers-1-lightgrey" alt="HSL" width="100"></a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
